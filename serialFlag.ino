@@ -2,6 +2,8 @@
 // by BARRAGAN <http://barraganstudio.com> 
 // This example code is in the public domain.
 
+// modified by Andrew Sowers on 1/9/2016
+
 #include <Servo.h> 
 String readString;
 Servo myservo;  // create servo object to control a servo 
